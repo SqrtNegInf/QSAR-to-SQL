@@ -1,0 +1,54 @@
+.===========================================================================
+.
+. MENU OF BIOLOGICAL CLASSIFICATIONS
+.
+.     This menu is presented when "TITLE /CLASS=B " is given
+.
+.     Only items in  this list (first 3 columns) may be entered as
+.        classifications
+.
+.===========================================================================
+B0   Unknown
+B1   Nonenzymatic Macromolecules:
+         DNA,Plasma,Hemoglobin,Albumin
+
+B2   Enzymes
+B2A      Oxidoreductases
+B2B      Transferases
+B2C      Hydrolases
+B2D      Lyases
+B2E      Isomerases
+B2F      Ligase
+B2G      Receptors
+B3   Organelles
+B3A      Mitochondria
+B3B      Microsomes
+B3C      Chloroplasts
+B3M      Membranes
+B3R      Ribosomes
+B3S      Synaptosomes
+B4   Single-celled organisms
+B4A      Algae
+B4B      Bacteria
+B4C      Cells in culture
+B4E      Erythrocytes
+B4F      Fungi, Molds
+B4L      Leukocytes
+B4P      Protozoa
+B4V      Viruses 
+B4Y      Yeasts
+B5   Organs/Tissues
+B5C      Cancer
+B5G      Gastro-intestinal tract
+B5H      Heart
+B5I      Internal/soft Organs
+B5L      Liver
+B5N      Nerves, Brain, Muscles
+B5S      Skin
+B6   Multi-cellular organisms
+B6A      Animal (vertebrates)
+B6B      Insect (bugs)
+B6F      Fish
+B6H      Human
+B6I      Invertebrates
+B6P      Plant

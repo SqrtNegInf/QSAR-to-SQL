@@ -1,0 +1,54 @@
+.===========================================================================
+.
+. MENU OF PHYSICAL CLASSIFICATIONS
+.
+.     This menu is presented when "TITLE /CLASS=P  " is given
+.
+.     Only items in  this list (first 3 columns) may be entered as
+.        classifications
+.
+.===========================================================================
+PT   Theoretical
+P0   Unknown
+P1   Ionization
+P1P      Ionization potential
+P1X      Proton exchange
+ 
+P2   Hydrolysis
+P3   Solvolysis
+ 
+P4   Spectra
+P4I      Ionization spectra
+P4E      ESR  spectra
+P4M      Mass spectra
+P4N      NMR  spectra
+P4R      IR   spectra
+P4U      UV   spectra
+ 
+P5   Miscellaneous reactions
+P6   Substitution
+P6E      Electrophilic substitution
+P6N      Nucleophilic  substitution
+ 
+P7   Addition
+P7D      Dimerization
+P7E      Electrophilic addition
+P7N      Nucleophilic  addition
+P7P      Polymerization
+ 
+P8   Elimination
+P9   Rearrangement
+P10  Oxidation
+P12  Radical reactions
+P13  Complex formation
+P14  Partitioning, binding
+P14C Chromatography
+P15  Pyrolysis
+P16  H-bonding
+P17  Electrochemical
+P18  Bronsted
+P19  Esterification
+P20  Photochemical
+P21  Hydrogenation
+P22  Isokinetic
+P23  Reduction
