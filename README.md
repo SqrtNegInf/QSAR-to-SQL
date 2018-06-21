@@ -1,6 +1,7 @@
 # QSAR database converted to SQL
 
-The custom database format designed for Biobyte's QSAR database is not useful
+The custom database format designed for Biobyte's 
+quantitative structure-activity relationship (*QSAR*) database is not useful
 for anyone not running Biobyte software. These scripts show how the data can
 be exported to SQL.
 
